@@ -62,3 +62,23 @@ Sample outputs are stored in example_outputs:
 ## Security
 
 Do not commit .env, API keys, SMTP app passwords, logs, or production archives.
+
+## Screenshots
+
+### Dashboard Overview
+
+![Dashboard Overview](docs/ui_overview.png)
+
+### Chinese Briefing
+
+![Chinese Briefing Overview](docs/chinese_brief_overview.png)
+
+![Chinese Briefing Detail](docs/chinese_brief_detail.png)
+
+### Top 20 Table
+
+![Top 20 Table](docs/top20_table.png)
+
+### Email Delivery
+
+![Email Delivery](docs/email_delivery.png)
