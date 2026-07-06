@@ -2,66 +2,115 @@
 
 AI-powered Global News Intelligence Automation System.
 
+Global News Ranker is a local automation system that collects global news from multiple sources, filters low-value content, deduplicates similar articles, clusters them into news events, ranks the top global stories, generates English and Chinese reports, archives daily outputs, and sends email briefings.
+
 ## Features
 
-- Collect global news from NewsAPI and RSS feeds
-- Filter low-value content such as sports, entertainment, video-only, and soft news
-- Deduplicate similar articles
-- Cluster articles into news events
-- Rank the top 20 global news events
-- Export Markdown, CSV, and JSON reports
-- Generate Chinese briefings with DeepSeek API
-- Send daily email reports through QQ SMTP
-- Provide a local Streamlit dashboard
-- Run automatically through Windows Task Scheduler
+- Multi-source news collection from NewsAPI and RSS feeds
+- Low-value content filtering for sports, entertainment, video-only, and soft-news items
+- Article deduplication and event clustering
+- Hot-score ranking for global news events
+- Top 20 news event export
+- English Markdown report generation
+- Chinese briefing generation with DeepSeek API
+- CSV and JSON structured export
+- Daily automation with Windows Task Scheduler
+- Email delivery through QQ SMTP
+- Local Streamlit dashboard for reports, logs, history, and manual workflow control
 
 ## Tech Stack
 
 - Python
 - Streamlit
 - NewsAPI
-- RSS
+- RSS feeds
 - DeepSeek API
 - QQ SMTP
 - PowerShell
 - Windows Task Scheduler
+- Markdown, CSV, JSON
 
-## Run
+## Workflow
+
+1. Fetch articles from NewsAPI and RSS feeds.
+2. Apply time filtering and low-value content filtering.
+3. Deduplicate similar articles.
+4. Cluster articles into news events.
+5. Rank events by hot score.
+6. Export the top 20 events to Markdown, CSV, and JSON.
+7. Generate a Chinese briefing with DeepSeek API.
+8. Archive daily outputs.
+9. Send the report by email.
+10. Display reports, logs, history, and task status in a local Streamlit dashboard.
+
+## Project Structure
+
+global-news-ranker/
+  main.py
+  generate_chinese_brief.py
+  send_email_report.py
+  app_ui.py
+  run_daily.ps1
+  run_ui.ps1
+  config.yaml
+  src/
+  docs/
+  example_outputs/
+  .env.example
+  requirements.txt
+  README.md
+  PROJECT_CASE_STUDY.md
+
+## Local Setup
 
 Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
-Create environment file:
+Create a local environment file:
 
-copy .env.example .env
+    copy .env.example .env
 
-Run pipeline:
+Fill in the required API keys and email settings in .env.
 
-python main.py
-python generate_chinese_brief.py
-python send_email_report.py
+Run the pipeline manually:
 
-Start dashboard:
+    python main.py
+    python generate_chinese_brief.py
+    python send_email_report.py
 
-powershell -NoProfile -ExecutionPolicy Bypass -File .\run_ui.ps1
+Start the local dashboard:
+
+    powershell -NoProfile -ExecutionPolicy Bypass -File .\run_ui.ps1
 
 Open:
 
-http://127.0.0.1:8501
+    http://127.0.0.1:8501
+
+## Automation
+
+The production version runs locally through Windows Task Scheduler at 9:00 AM every day.
+
+The scheduled workflow executes:
+
+- news collection
+- filtering
+- deduplication
+- event clustering
+- ranking
+- English report generation
+- Chinese briefing generation
+- historical archiving
+- email delivery
 
 ## Example Outputs
 
 Sample outputs are stored in example_outputs:
 
-- latest.md
-- latest_zh.md
-- latest.csv
-- latest.json
-
-## Security
-
-Do not commit .env, API keys, SMTP app passwords, logs, or production archives.
+- latest.md: English report
+- latest_zh.md: Chinese briefing
+- latest.csv: tabular output
+- latest.json: structured output
 
 ## Screenshots
 
@@ -82,3 +131,26 @@ Do not commit .env, API keys, SMTP app passwords, logs, or production archives.
 ### Email Delivery
 
 ![Email Delivery](docs/email_delivery.png)
+
+## Security
+
+The real .env file is intentionally excluded from this repository.
+
+Do not commit:
+
+- API keys
+- SMTP app passwords
+- email passwords
+- production logs
+- full output history
+- production zip archives
+
+Use .env.example as the public configuration template.
+
+## Case Study
+
+See PROJECT_CASE_STUDY.md for the project background, architecture, engineering decisions, AI-assisted development process, and future improvements.
+
+## Status
+
+This project has been tested as a working local daily automation system with scheduled execution, report generation, historical archiving, and email delivery.
