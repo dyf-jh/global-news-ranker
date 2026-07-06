@@ -1,0 +1,475 @@
+sources:
+  newsapi:
+    enabled: true
+    sources:
+    - bbc-news
+    - cnn
+    - reuters
+    - associated-press
+    - the-washington-post
+    - the-guardian-uk
+    - bloomberg
+    - financial-times
+    - al-jazeera-english
+    - abc-news
+    - nbc-news
+    - cbs-news
+    - usa-today
+    - axios
+    - politico
+    - the-hill
+    - msnbc
+    - fox-news
+    - newsweek
+    - time
+    page_size: 100
+  gdelt:
+    enabled: true
+    max_articles: 150
+    domain_restrict: true
+    domains:
+    - bbc.com
+    - cnn.com
+    - reuters.com
+    - apnews.com
+    - washingtonpost.com
+    - theguardian.com
+    - bloomberg.com
+    - ft.com
+    - aljazeera.com
+    - nytimes.com
+    - wsj.com
+    - abcnews.go.com
+    - nbcnews.com
+    - cbsnews.com
+    - usatoday.com
+    - axios.com
+    - politico.com
+    - newsweek.com
+    - time.com
+    - economist.com
+  rss:
+    enabled: true
+    feeds:
+    - name: BBC World
+      source: bbc-news
+      url: http://feeds.bbci.co.uk/news/world/rss.xml
+      weight: 9
+      category: world
+      country: GB
+      language: en
+      enabled: true
+    - name: CNN World
+      source: cnn
+      url: http://rss.cnn.com/rss/edition_world.rss
+      weight: 8
+      category: world
+      country: US
+      language: en
+      enabled: true
+    - name: The Guardian World
+      source: the-guardian-uk
+      url: https://www.theguardian.com/world/rss
+      weight: 8
+      category: world
+      country: GB
+      language: en
+      enabled: true
+    - name: NPR News
+      source: npr
+      url: https://feeds.npr.org/1001/rss.xml
+      weight: 7
+      category: news
+      country: US
+      language: en
+      enabled: true
+    - name: DW Top Stories
+      source: dw
+      url: https://rss.dw.com/rdf/rss-en-top
+      weight: 7
+      category: world
+      country: DE
+      language: en
+      enabled: true
+    - name: France 24
+      source: france24
+      url: https://www.france24.com/en/rss
+      weight: 7
+      category: world
+      country: FR
+      language: en
+      enabled: true
+    - name: Al Jazeera
+      source: al-jazeera-english
+      url: https://www.aljazeera.com/xml/rss/all.xml
+      weight: 7
+      category: world
+      country: QA
+      language: en
+      enabled: true
+    - name: Sky News World
+      source: sky-news
+      url: https://feeds.skynews.com/feeds/rss/world.xml
+      weight: 6
+      category: world
+      country: GB
+      language: en
+      enabled: true
+    - name: NBC News
+      source: nbc-news
+      url: https://feeds.nbcnews.com/nbcnews/public/news
+      weight: 7
+      category: news
+      country: US
+      language: en
+      enabled: true
+    - name: CBS News
+      source: cbs-news
+      url: https://www.cbsnews.com/latest/rss/main
+      weight: 6
+      category: news
+      country: US
+      language: en
+      enabled: true
+    - name: The Independent
+      source: the-independent
+      url: https://www.independent.co.uk/news/world/rss
+      weight: 6
+      category: world
+      country: GB
+      language: en
+      enabled: true
+    - name: USA Today
+      source: usa-today
+      url: https://rssfeeds.usatoday.com/usatoday-NewsTopStories
+      weight: 5
+      category: news
+      country: US
+      language: en
+      enabled: true
+    - name: ABC News Top Stories
+      source: abc-news
+      url: https://abcnews.go.com/abcnews/topstories
+      weight: 7
+      category: news
+      country: US
+      language: en
+      enabled: false
+    - name: Bloomberg Markets
+      source: bloomberg
+      url: https://feeds.bloomberg.com/markets/news.rss
+      weight: 9
+      category: markets
+      country: US
+      language: en
+      enabled: false
+    - name: The Economist International
+      source: economist
+      url: https://www.economist.com/feeds/print-sections/77/international.xml
+      weight: 8
+      category: world
+      country: GB
+      language: en
+      enabled: false
+    - name: New York Times World
+      source: new-york-times
+      url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+      weight: 9
+      category: world
+      country: US
+      language: en
+      enabled: false
+    - name: Wall Street Journal World
+      source: wall-street-journal
+      url: https://feeds.wsj.com/xml/rss/3_7085.xml
+      weight: 9
+      category: world
+      country: US
+      language: en
+      enabled: false
+    - name: MarketWatch Top Stories
+      source: marketwatch
+      url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+      weight: 5
+      category: markets
+      country: US
+      language: en
+      enabled: false
+source_weights:
+  reuters: 10
+  associated-press: 10
+  bloomberg: 9
+  bbc-news: 9
+  the-washington-post: 8
+  the-guardian-uk: 8
+  cnn: 8
+  nbc-news: 7
+  abc-news: 7
+  al-jazeera-english: 7
+  financial-times: 9
+  new-york-times: 9
+  wall-street-journal: 9
+  usa-today: 5
+  axios: 5
+  politico: 6
+  the-hill: 5
+  newsweek: 5
+  time: 5
+  msnbc: 5
+  fox-news: 5
+  cbs-news: 6
+  npr: 7
+  economist: 8
+  default: 3
+  dw: 7
+  france24: 7
+  sky-news: 6
+  the-independent: 6
+  marketwatch: 5
+topic_weights:
+  war:
+    keywords:
+    - war
+    - military
+    - invasion
+    - conflict
+    - missile
+    - defense
+    - troops
+    - ceasefire
+    - terrorist
+    - bombing
+    - sanctions
+    - navy
+    - army
+    - artillery
+    weight: 10
+  election:
+    keywords:
+    - election
+    - vote
+    - campaign
+    - polling
+    - ballot
+    - candidate
+    - primary
+    - referendum
+    - electoral
+    weight: 9
+  financial_markets:
+    keywords:
+    - stock market
+    - bond
+    - inflation
+    - federal reserve
+    - interest rate
+    - gdp
+    - recession
+    - rally
+    - bull market
+    - bear market
+    - s&p 500
+    - nasdaq
+    - dow jones
+    - treasury
+    - yield
+    - central bank
+    - monetary policy
+    weight: 9
+  central_bank:
+    keywords:
+    - central bank
+    - fed
+    - ecb
+    - bank of japan
+    - boj
+    - people's bank
+    - pboc
+    - rate hike
+    - rate cut
+    - quantitative easing
+    - tightening
+    - easing
+    weight: 9
+  tech_giants:
+    keywords:
+    - apple
+    - google
+    - microsoft
+    - amazon
+    - meta
+    - facebook
+    - twitter
+    - tesla
+    - nvidia
+    - openai
+    - alphabet
+    - samsung
+    - tiktok
+    - antitrust
+    - big tech
+    - silicon valley
+    weight: 8
+  ai:
+    keywords:
+    - artificial intelligence
+    - ai
+    - machine learning
+    - deep learning
+    - chatgpt
+    - gpt
+    - llm
+    - large language model
+    - neural network
+    - ai model
+    - openai
+    - anthropic
+    - claude
+    - gemini
+    - copilot
+    weight: 8
+  diplomacy:
+    keywords:
+    - diplomacy
+    - diplomatic
+    - summit
+    - alliance
+    - treaty
+    - ambassador
+    - foreign minister
+    - secretary of state
+    - united nations
+    - nato
+    - eu
+    - european union
+    - bilateral
+    - multilateral
+    weight: 8
+  disaster:
+    keywords:
+    - earthquake
+    - hurricane
+    - flood
+    - wildfire
+    - tsunami
+    - tornado
+    - disaster
+    - landslide
+    - drought
+    - storm
+    - eruption
+    - cyclone
+    - pandemic
+    - outbreak
+    weight: 8
+  energy:
+    keywords:
+    - oil
+    - gas
+    - energy
+    - renewable
+    - solar
+    - wind
+    - nuclear
+    - opec
+    - crude
+    - pipeline
+    - electricity
+    - fossil fuel
+    - green energy
+    - carbon
+    - emission
+    - climate
+    weight: 7
+  trade:
+    keywords:
+    - tariff
+    - trade war
+    - export
+    - import
+    - supply chain
+    - trade deal
+    - wto
+    - trade deficit
+    - protectionism
+    - embargo
+    weight: 8
+  health:
+    keywords:
+    - health
+    - hospital
+    - vaccine
+    - drug
+    - fda
+    - cdc
+    - who
+    - disease
+    - cancer
+    - treatment
+    - medical
+    - pandemic
+    - covid
+    - patient
+    - doctor
+    weight: 7
+  technology:
+    keywords:
+    - technology
+    - startup
+    - innovation
+    - cyber
+    - cybersecurity
+    - hack
+    - breach
+    - data
+    - software
+    - chip
+    - semiconductor
+    - 5g
+    - space
+    - nasa
+    - rocket
+    - satellite
+    - iphone
+    - android
+    - app
+    - platform
+    weight: 7
+  climate:
+    keywords:
+    - climate
+    - climate change
+    - global warming
+    - paris agreement
+    - emission
+    - carbon
+    - net zero
+    - green
+    - renewable
+    - environment
+    - pollution
+    - weather
+    - extreme weather
+    weight: 7
+deduplication:
+  similarity_threshold: 85
+  cluster_threshold: 75
+recency:
+  max_hours: 24
+logging:
+  level: INFO
+  file: logs/news_fetcher.log
+output:
+  dir: outputs
+  top_n: 20
+network:
+  connect_timeout: 5
+  read_timeout: 12
+  retries: 1
+  backoff_seconds: 1
+  pipeline_timeout: 90
+  trust_env: false
+  proxy:
+    enabled: true
+    http: http://127.0.0.1:7897
+    https: http://127.0.0.1:7897

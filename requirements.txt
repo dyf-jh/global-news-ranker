@@ -1,0 +1,8 @@
+﻿requests
+httpx
+feedparser
+PyYAML
+python-dotenv
+rapidfuzz
+pandas
+streamlit==1.24.1

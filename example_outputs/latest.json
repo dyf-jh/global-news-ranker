@@ -1,0 +1,814 @@
+{
+  "generated_at": "2026-07-06T01:00:17.670848+00:00",
+  "total": 20,
+  "articles": [
+    {
+      "rank": 1,
+      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "description": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-news",
+      "published_at": "2026-07-06T00:20:20+00:00",
+      "language": "en",
+      "country": "GB",
+      "raw_provider": "rss",
+      "cluster_count": 5,
+      "distinct_sources": [
+        "bbc-news",
+        "cbs-news",
+        "dw",
+        "france24",
+        "npr"
+      ],
+      "related_titles": [
+        "Super Typhoon Bavi hits US Pacific islands",
+        "Super Typhoon Bavi makes landfall near Guam with extreme, life-threatening winds",
+        "Super Typhoon Bavi brings intense winds to Guam and surrounding Pacific islands"
+      ],
+      "source_weight": 9.0,
+      "recency_score": 9.72,
+      "topic_weight": 8,
+      "hot_score": 10.14,
+      "all_articles": [
+        {
+          "title": "Super Typhoon Bavi hits US Pacific islands",
+          "description": "Super Typhoon Bavi made landfall near Guam, a US territory located in the western Pacific Ocean. The storm brought powerful winds and heavy rain to the Northern Mariana Islands.",
+          "url": "https://www.dw.com/en/super-typhoon-bavi-hits-us-pacific-islands/a-77840713?maca=en-rss-en-top-1022-rdf",
+          "source": "dw",
+          "published_at": "2026-07-06T01:00:12.569066+00:00",
+          "language": "en",
+          "country": "DE",
+          "raw_provider": "rss",
+          "source_name": "DW Top Stories",
+          "category": "world"
+        },
+        {
+          "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+          "description": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+          "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc-news",
+          "published_at": "2026-07-06T00:20:20+00:00",
+          "language": "en",
+          "country": "GB",
+          "raw_provider": "rss",
+          "source_name": "BBC World",
+          "category": "world"
+        },
+        {
+          "title": "Super Typhoon Bavi makes landfall near Guam with extreme, life-threatening winds",
+          "description": "Bavi, a massive cyclone approaching the Mariana Islands east of the Philippines, was forecast to strike Rota early Monday morning local time.",
+          "url": "https://www.cbsnews.com/news/super-typhoon-bavi-rota-guam-extreme-wind-warning/",
+          "source": "cbs-news",
+          "published_at": "2026-07-05T22:56:17+00:00",
+          "language": "en",
+          "country": "US",
+          "raw_provider": "rss",
+          "source_name": "CBS News",
+          "category": "news"
+        },
+        {
+          "title": "Super Typhoon Bavi brings intense winds to Guam and surrounding Pacific islands",
+          "description": "People in the Northern Mariana Islands — remote U.S. territories in the Pacific Ocean — are dealing with intense winds and potential flooding from Super Typhoon Bavi.",
+          "url": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
+          "source": "npr",
+          "published_at": "2026-07-05T17:22:55+00:00",
+          "language": "en",
+          "country": "US",
+          "raw_provider": "rss",
+          "source_name": "NPR News",
+          "category": "news"
+        },
+        {
+          "title": "Guam on alert as Super Typhoon Bavi closes in",
+          "description": "Howling winds and lashing rains battered Guam and the Northern Marianas late Sunday hours before the projected arrival of a \"super typhoon\" with equivalent force to a category-5 hurricane over the US Pacific territories. Super Typhoon Bavi was forecast to roar westwards over the area early Monday with maximum sustained winds of up to 280 kilometres (173 miles) per hour and gusts of 333 kmh, according to the Joint Typhoon Warning Center.",
+          "url": "https://www.france24.com/en/guam-on-alert-as-super-typhoon-bavi-closes-in",
+          "source": "france24",
+          "published_at": "2026-07-05T15:47:58+00:00",
+          "language": "en",
+          "country": "FR",
+          "raw_provider": "rss",
+          "source_name": "France 24",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Michigan Democrat Mallory McMorrow ends bid for US Senate",
+      "description": "Exit leaves primary voters to choose between progressive Abdul El-Sayed and centrist Haley Stevens in must-win seat Mallory McMorrow, a Michigan Democrat, has dropped out of a contentious US Senate primary campaign , setting up a straight fight between the party’s progressive and establishment wings – represented by Abdul El-Sayed , a former public health official, and Haley Stevens, a congresswoman. McMorrow ’s retreat marks the end of a center-left bid to hold the seat being vacated this year by the Democrat Gary Peters. The three-way primary contest was a close one earlier in the campaign, but polls indicated that McMorrow’s support had plunged in recent weeks, as El-Sayed raced past her…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/05/mallory-mcmorrow-drops-out-senate-race-michigan",
+      "source": "the-guardian-uk",
+      "published_at": "2026-07-05T21:34:28+00:00",
+      "language": "en",
+      "country": "GB",
+      "raw_provider": "rss",
+      "cluster_count": 3,
+      "distinct_sources": [
+        "cbs-news",
+        "the-guardian-uk",
+        "the-independent"
+      ],
+      "related_titles": [
+        "Mallory McMorrow suspends Senate campaign in Michigan",
+        "Democratic rising star Mallory McMorrow unexpectedly drops out of key Michigan Senate race"
+      ],
+      "source_weight": 8.0,
+      "recency_score": 8.57,
+      "topic_weight": 9,
+      "hot_score": 7.91,
+      "all_articles": [
+        {
+          "title": "Mallory McMorrow suspends Senate campaign in Michigan",
+          "description": "State Sen. Mallory McMorrow announced on Sunday that she is suspending her campaign for Senate, narrowing the Democratic field ahead of the competitive August primary.",
+          "url": "https://www.cbsnews.com/news/mallory-mcmorrow-michigan-senate-campaign-suspend/",
+          "source": "cbs-news",
+          "published_at": "2026-07-05T23:54:37+00:00",
+          "language": "en",
+          "country": "US",
+          "raw_provider": "rss",
+          "source_name": "CBS News",
+          "category": "news"
+        },
+        {
+          "title": "Michigan Democrat Mallory McMorrow ends bid for US Senate",
+          "description": "Exit leaves primary voters to choose between progressive Abdul El-Sayed and centrist Haley Stevens in must-win seat Mallory McMorrow, a Michigan Democrat, has dropped out of a contentious US Senate primary campaign , setting up a straight fight between the party’s progressive and establishment wings – represented by Abdul El-Sayed , a former public health official, and Haley Stevens, a congresswoman. McMorrow ’s retreat marks the end of a center-left bid to hold the seat being vacated this year by the Democrat Gary Peters. The three-way primary contest was a close one earlier in the campaign, but polls indicated that McMorrow’s support had plunged in recent weeks, as El-Sayed raced past her and Stevens to emerge as the frontrunner for the party’s nomination.",
+          "url": "https://www.theguardian.com/us-news/2026/jul/05/mallory-mcmorrow-drops-out-senate-race-michigan",
+          "source": "the-guardian-uk",
+          "published_at": "2026-07-05T21:34:28+00:00",
+          "language": "en",
+          "country": "GB",
+          "raw_provider": "rss",
+          "source_name": "The Guardian World",
+          "category": "world"
+        },
+        {
+          "title": "Democratic rising star Mallory McMorrow unexpectedly drops out of key Michigan Senate race",
+          "description": "Polls showed her support dropping after clash with fellow progressive Abdul El-Sayed and Twitch streamer Hasan Piker",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/mallory-mcmorrow-michigan-senate-democrats-end-campaign-b3009331.html",
+          "source": "the-independent",
+          "published_at": "2026-07-05T20:52:50+00:00",
+          "language": "en",
+          "country": "GB",
+          "raw_provider": "rss",
+          "source_name": "The Independent",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "8 injured, including 4 children, in New York City Fourth of July shooting",
+      "description": "A shooting at a Fourth of July celebration in the US city of New York wounded eight victims, four of whom are children.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/8-injured-including-4-children-in-new-york-city-fourth-of-july-shooting?traffic_source=rss",
+      "source": "al-jazeera-english",
+      "published_at": "2026-07-05T20:16:23+00:00",
+      "language": "en",
+      "country": "QA",
+      "raw_provider": "rss",
+      "cluster_count": 2,
+      "distinct_sources": [
+        "al-jazeera-english",
+        "the-independent"
+      ],
+      "related_titles": [
+        "Eight people - including four children - injured in Coney Island mass shooting on July 4"
+      ],
+      "source_weight": 7.0,
+      "recency_score": 8.03,
+      "topic_weight": 7,
+      "hot_score": 6.16,
+      "all_articles": [
+        {
+          "title": "8 injured, including 4 children, in New York City Fourth of July shooting",
+          "description": "A shooting at a Fourth of July celebration in the US city of New York wounded eight victims, four of whom are children.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/8-injured-including-4-children-in-new-york-city-fourth-of-july-shooting?traffic_source=rss",
+          "source": "al-jazeera-english",
+          "published_at": "2026-07-05T20:16:23+00:00",
+          "language": "en",
+          "country": "QA",
+          "raw_provider": "rss",
+          "source_name": "Al Jazeera",
+          "category": "world"
+        },
+        {
+          "title": "Eight people - including four children - injured in Coney Island mass shooting on July 4",
+          "description": "One victim, a 21-year-old woman, is in critical condition after she was shot in the chest, police said",
+          "url": "https://www.independent.co.uk/news/world/americas/eight-injured-coney-island-fourth-of-july-shooting-b3009241.html",
+          "source": "the-independent",
+          "published_at": "2026-07-05T13:34:27+00:00",
+          "language": "en",
+          "country": "GB",
+          "raw_provider": "rss",
+          "source_name": "The Independent",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Firework strikes Delta flight landing at Chicago’s Midway Airport",
+      "description": "The aircraft landed safely and taxied to the gate, the airline said, adding that the incident is under review.",
+      "url": "https://www.nbcnews.com/news/us-news/firework-strikes-delta-flight-landing-chicago-rcna353054",
+      "source": "nbc-news",
+      "published_at": "2026-07-05T18:21:24+00:00",
+      "language": "en",
+      "country": "US",
+      "raw_provider": "rss",
+      "cluster_count": 2,
+      "distinct_sources": [
+        "nbc-news",
+        "the-independent"
+      ],
+      "related_titles": [
+        "Delta flight hit by firework when landing on July 4 at Midway airport"
+      ],
+      "source_weight": 7.0,
+      "recency_score": 7.23,
+      "topic_weight": 8,
+      "hot_score": 6.15,
+      "all_articles": [
+        {
+          "title": "Firework strikes Delta flight landing at Chicago’s Midway Airport",
+          "description": "The aircraft landed safely and taxied to the gate, the airline said, adding that the incident is under review.",
+          "url": "https://www.nbcnews.com/news/us-news/firework-strikes-delta-flight-landing-chicago-rcna353054",
+          "source": "nbc-news",
+          "published_at": "2026-07-05T18:21:24+00:00",
+          "language": "en",
+          "country": "US",
+          "raw_provider": "rss",
+          "source_name": "NBC News",
+          "category": "news"
+        },
+        {
+          "title": "Delta flight hit by firework when landing on July 4 at Midway airport",
+          "description": "There were 52 passengers and six crew members on board at the time of the incident",
+          "url": "https://www.independent.co.uk/news/world/americas/firework-strike-delta-airlines-flight-1076-fourth-of-july-b3009284.html",
+          "source": "the-independent",
+          "published_at": "2026-07-05T16:17:35+00:00",
+          "language": "en",
+          "country": "GB",
+          "raw_provider": "rss",
+          "source_name": "The Independent",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Iran's new Supreme Leader Mojtaba Khamenei absent from mass funeral for father",
+      "description": "Ayatollah Ali Khamenei’s son and successor was not among the family members and thousands of mourners who turned out Sunday for a second day of ceremonies to honour Iran’s late supreme leader. Mojtaba Khamenei has remained out of the public eye since he was wounded in the strike that killed his father.",
+      "url": "https://www.france24.com/en/asia-pacific/20260705-iran-new-supreme-leader-mojtaba-khamenei-absent-from-mass-funeral-for-father",
+      "source": "france24",
+      "published_at": "2026-07-05T14:52:34+00:00",
+      "language": "en",
+      "country": "FR",
+      "raw_provider": "rss",
+      "cluster_count": 2,
+      "distinct_sources": [
+        "al-jazeera-english",
+        "france24"
+      ],
+      "related_titles": [
+        "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent"
+      ],
+      "source_weight": 7.0,
+      "recency_score": 5.78,
+      "topic_weight": 8,
+      "hot_score": 6.11,
+      "all_articles": [
+        {
+          "title": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
+          "description": "Massive crowds gathered in Tehran to mourn Khamenei’s death, with chants calling for revenge against the US and Israel.",
+          "url": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss",
+          "source": "al-jazeera-english",
+          "published_at": "2026-07-05T18:55:37+00:00",
+          "language": "en",
+          "country": "QA",
+          "raw_provider": "rss",
+          "source_name": "Al Jazeera",
+          "category": "world"
+        },
+        {
+          "title": "Iran's new Supreme Leader Mojtaba Khamenei absent from mass funeral for father",
+          "description": "Ayatollah Ali Khamenei’s son and successor was not among the family members and thousands of mourners who turned out Sunday for a second day of ceremonies to honour Iran’s late supreme leader. Mojtaba Khamenei has remained out of the public eye since he was wounded in the strike that killed his father.",
+          "url": "https://www.france24.com/en/asia-pacific/20260705-iran-new-supreme-leader-mojtaba-khamenei-absent-from-mass-funeral-for-father",
+          "source": "france24",
+          "published_at": "2026-07-05T14:52:34+00:00",
+          "language": "en",
+          "country": "FR",
+          "raw_provider": "rss",
+          "source_name": "France 24",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro",
+      "source": "bbc-news",
+      "published_at": "2026-07-06T01:00:04.848696+00:00",
+      "language": "en",
+      "country": "GB",
+      "raw_provider": "newsapi",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "bbc-news"
+      ],
+      "related_titles": [],
+      "source_weight": 9.0,
+      "recency_score": 10.0,
+      "topic_weight": 10,
+      "hot_score": 5.95,
+      "all_articles": [
+        {
+          "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+          "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+          "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro",
+          "source": "bbc-news",
+          "published_at": "2026-07-06T01:00:04.848696+00:00",
+          "language": "en",
+          "country": "GB",
+          "raw_provider": "newsapi"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "description": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-news",
+      "published_at": "2026-07-05T23:31:04+00:00",
+      "language": "en",
+      "country": "GB",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "bbc-news"
+      ],
+      "related_titles": [],
+      "source_weight": 9.0,
+      "recency_score": 9.38,
+      "topic_weight": 9,
+      "hot_score": 5.68,
+      "all_articles": [
+        {
+          "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+          "description": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+          "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc-news",
+          "published_at": "2026-07-05T23:31:04+00:00",
+          "language": "en",
+          "country": "GB",
+          "raw_provider": "rss",
+          "source_name": "BBC World",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Minister calls on Burnham to show path to 3.5% target on UK defence spending",
+      "description": "Dan Jarvis, who wants to stay on as defence secretary, says he is confident PM-in-waiting values national security The new defence secretary, Dan Jarvis, has called on Andy Burnham to increase defence spending dramatically from 2030 and “evidence the trajectory” towards a Nato target that would mean £25bn a year more for the military by the middle of the next decade. The former paratrooper said he was confident that the prime minister-in-waiting valued national security, as he openly lobbied him for cash that would probably have to come from cuts elsewhere.",
+      "url": "https://www.theguardian.com/politics/2026/jul/06/dan-jarvis-andy-burnham-uk-defence-spending",
+      "source": "the-guardian-uk",
+      "published_at": "2026-07-05T23:01:40+00:00",
+      "language": "en",
+      "country": "GB",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "the-guardian-uk"
+      ],
+      "related_titles": [],
+      "source_weight": 8.0,
+      "recency_score": 9.18,
+      "topic_weight": 10,
+      "hot_score": 5.54,
+      "all_articles": [
+        {
+          "title": "Minister calls on Burnham to show path to 3.5% target on UK defence spending",
+          "description": "Dan Jarvis, who wants to stay on as defence secretary, says he is confident PM-in-waiting values national security The new defence secretary, Dan Jarvis, has called on Andy Burnham to increase defence spending dramatically from 2030 and “evidence the trajectory” towards a Nato target that would mean £25bn a year more for the military by the middle of the next decade. The former paratrooper said he was confident that the prime minister-in-waiting valued national security, as he openly lobbied him for cash that would probably have to come from cuts elsewhere.",
+          "url": "https://www.theguardian.com/politics/2026/jul/06/dan-jarvis-andy-burnham-uk-defence-spending",
+          "source": "the-guardian-uk",
+          "published_at": "2026-07-05T23:01:40+00:00",
+          "language": "en",
+          "country": "GB",
+          "raw_provider": "rss",
+          "source_name": "The Guardian World",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Iran: Pressure on persecuted Baha'i community intensifies",
+      "description": "Arrests, torture, mock executions: War has seen the Iranian regime crack down on dissidents of all kinds. Members of the country's Baha'i faith have long been persecuted, but their situation is now worsening.",
+      "url": "https://www.dw.com/en/iran-pressure-on-persecuted-baha-i-community-intensifies/a-77824095?maca=en-rss-en-top-1022-rdf",
+      "source": "dw",
+      "published_at": "2026-07-06T01:00:12.570069+00:00",
+      "language": "en",
+      "country": "DE",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "dw"
+      ],
+      "related_titles": [],
+      "source_weight": 7.0,
+      "recency_score": 10.0,
+      "topic_weight": 10,
+      "hot_score": 5.45,
+      "all_articles": [
+        {
+          "title": "Iran: Pressure on persecuted Baha'i community intensifies",
+          "description": "Arrests, torture, mock executions: War has seen the Iranian regime crack down on dissidents of all kinds. Members of the country's Baha'i faith have long been persecuted, but their situation is now worsening.",
+          "url": "https://www.dw.com/en/iran-pressure-on-persecuted-baha-i-community-intensifies/a-77824095?maca=en-rss-en-top-1022-rdf",
+          "source": "dw",
+          "published_at": "2026-07-06T01:00:12.570069+00:00",
+          "language": "en",
+          "country": "DE",
+          "raw_provider": "rss",
+          "source_name": "DW Top Stories",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Trump set to put NATO unity to the test at Turkey summit",
+      "description": "NATO Secretary-General Mark Rutte is working to keep the alliance united and Donald Trump engaged. But disputes over burden sharing, US military commitments, and the Iran war are creating a major test for NATO unity.",
+      "url": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-top-1022-rdf",
+      "source": "dw",
+      "published_at": "2026-07-06T01:00:12.570069+00:00",
+      "language": "en",
+      "country": "DE",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "dw"
+      ],
+      "related_titles": [],
+      "source_weight": 7.0,
+      "recency_score": 10.0,
+      "topic_weight": 10,
+      "hot_score": 5.45,
+      "all_articles": [
+        {
+          "title": "Trump set to put NATO unity to the test at Turkey summit",
+          "description": "NATO Secretary-General Mark Rutte is working to keep the alliance united and Donald Trump engaged. But disputes over burden sharing, US military commitments, and the Iran war are creating a major test for NATO unity.",
+          "url": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-top-1022-rdf",
+          "source": "dw",
+          "published_at": "2026-07-06T01:00:12.570069+00:00",
+          "language": "en",
+          "country": "DE",
+          "raw_provider": "rss",
+          "source_name": "DW Top Stories",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Brazil’s loss to Norway leaves players and fans distraught and searching for answers",
+      "description": "The scenes were hard to watch inside MetLife Stadium as Brazilian fans were seen in tears toward the end of loss to Norway.",
+      "url": "https://www.nbcnews.com/sports/soccer/brazil-vs-norway-brazils-loss-earliest-world-cup-exit-nearly-30-years-rcna353071",
+      "source": "nbc-news",
+      "published_at": "2026-07-05T23:56:29+00:00",
+      "language": "en",
+      "country": "US",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "nbc-news"
+      ],
+      "related_titles": [],
+      "source_weight": 7.0,
+      "recency_score": 9.56,
+      "topic_weight": 10,
+      "hot_score": 5.36,
+      "all_articles": [
+        {
+          "title": "Brazil’s loss to Norway leaves players and fans distraught and searching for answers",
+          "description": "The scenes were hard to watch inside MetLife Stadium as Brazilian fans were seen in tears toward the end of loss to Norway.",
+          "url": "https://www.nbcnews.com/sports/soccer/brazil-vs-norway-brazils-loss-earliest-world-cup-exit-nearly-30-years-rcna353071",
+          "source": "nbc-news",
+          "published_at": "2026-07-05T23:56:29+00:00",
+          "language": "en",
+          "country": "US",
+          "raw_provider": "rss",
+          "source_name": "NBC News",
+          "category": "news"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "‘Nepotism and bias’ rife in England and Wales police leadership, report finds",
+      "description": "Inquiry co-chaired by David Blunkett uncovers loss of focus on fighting crime, plus low standards and need for reform Police leadership in England and Wales is plagued by “nepotism and bias” and too many chiefs have lost focus on fighting crime, a government-backed report has found. The inquiry, co-chaired by former home secretary David Blunkett, found a reset was needed at all levels, with scores of top officers facing misconduct inquiries.",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/06/nepotism-bias-england-wales-police-leadership-report",
+      "source": "the-guardian-uk",
+      "published_at": "2026-07-05T23:01:40+00:00",
+      "language": "en",
+      "country": "GB",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "the-guardian-uk"
+      ],
+      "related_titles": [],
+      "source_weight": 8.0,
+      "recency_score": 9.18,
+      "topic_weight": 8,
+      "hot_score": 5.24,
+      "all_articles": [
+        {
+          "title": "‘Nepotism and bias’ rife in England and Wales police leadership, report finds",
+          "description": "Inquiry co-chaired by David Blunkett uncovers loss of focus on fighting crime, plus low standards and need for reform Police leadership in England and Wales is plagued by “nepotism and bias” and too many chiefs have lost focus on fighting crime, a government-backed report has found. The inquiry, co-chaired by former home secretary David Blunkett, found a reset was needed at all levels, with scores of top officers facing misconduct inquiries.",
+          "url": "https://www.theguardian.com/uk-news/2026/jul/06/nepotism-bias-england-wales-police-leadership-report",
+          "source": "the-guardian-uk",
+          "published_at": "2026-07-05T23:01:40+00:00",
+          "language": "en",
+          "country": "GB",
+          "raw_provider": "rss",
+          "source_name": "The Guardian World",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Interior secretary says administration will use the same company to repair Reflecting Pool",
+      "description": "The administration has faced scrutiny for awarding a multimillion-dollar, no-bid contract to a company that previously worked on Trump properties.",
+      "url": "https://www.nbcnews.com/politics/trump-administration/interior-secretary-says-trump-administration-will-use-company-repair-l-rcna353062",
+      "source": "nbc-news",
+      "published_at": "2026-07-05T21:25:57+00:00",
+      "language": "en",
+      "country": "US",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "nbc-news"
+      ],
+      "related_titles": [],
+      "source_weight": 7.0,
+      "recency_score": 8.51,
+      "topic_weight": 10,
+      "hot_score": 5.15,
+      "all_articles": [
+        {
+          "title": "Interior secretary says administration will use the same company to repair Reflecting Pool",
+          "description": "The administration has faced scrutiny for awarding a multimillion-dollar, no-bid contract to a company that previously worked on Trump properties.",
+          "url": "https://www.nbcnews.com/politics/trump-administration/interior-secretary-says-trump-administration-will-use-company-repair-l-rcna353062",
+          "source": "nbc-news",
+          "published_at": "2026-07-05T21:25:57+00:00",
+          "language": "en",
+          "country": "US",
+          "raw_provider": "rss",
+          "source_name": "NBC News",
+          "category": "news"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Zelensky warns of new Russian attacks as battle for Kostyantynivka continues",
+      "description": "Ukrainian President Volodymyr Zelensky said on Sunday that fighting was continuing for the eastern town of Kostyantynivka, rejecting Moscow's claim that Russian forces had captured the strategic settlement. Zelensky also warned Russia was preparing a new wave of large-scale attacks ahead of this week's NATO summit in Turkey, where he is expected to meet US President Donald Trump.",
+      "url": "https://www.france24.com/en/europe/20260705-zelensky-warns-of-new-russian-attacks-as-battle-for-kostyantynivka-continues",
+      "source": "france24",
+      "published_at": "2026-07-05T20:19:22+00:00",
+      "language": "en",
+      "country": "FR",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "france24"
+      ],
+      "related_titles": [],
+      "source_weight": 7.0,
+      "recency_score": 8.05,
+      "topic_weight": 10,
+      "hot_score": 5.06,
+      "all_articles": [
+        {
+          "title": "Zelensky warns of new Russian attacks as battle for Kostyantynivka continues",
+          "description": "Ukrainian President Volodymyr Zelensky said on Sunday that fighting was continuing for the eastern town of Kostyantynivka, rejecting Moscow's claim that Russian forces had captured the strategic settlement. Zelensky also warned Russia was preparing a new wave of large-scale attacks ahead of this week's NATO summit in Turkey, where he is expected to meet US President Donald Trump.",
+          "url": "https://www.france24.com/en/europe/20260705-zelensky-warns-of-new-russian-attacks-as-battle-for-kostyantynivka-continues",
+          "source": "france24",
+          "published_at": "2026-07-05T20:19:22+00:00",
+          "language": "en",
+          "country": "FR",
+          "raw_provider": "rss",
+          "source_name": "France 24",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "National Guard troops fatally shoot a man in downtown Memphis",
+      "description": "Memphis police say National Guard troops fired their weapons in the early morning hours of July 5, killing a man who was armed with a handgun. State investigators will handle the case.",
+      "url": "https://www.npr.org/2026/07/05/nx-s1-5883091/national-guard-fatal-shooting-memphis",
+      "source": "npr",
+      "published_at": "2026-07-05T19:40:37+00:00",
+      "language": "en",
+      "country": "US",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "npr"
+      ],
+      "related_titles": [],
+      "source_weight": 7.0,
+      "recency_score": 7.78,
+      "topic_weight": 10,
+      "hot_score": 5.01,
+      "all_articles": [
+        {
+          "title": "National Guard troops fatally shoot a man in downtown Memphis",
+          "description": "Memphis police say National Guard troops fired their weapons in the early morning hours of July 5, killing a man who was armed with a handgun. State investigators will handle the case.",
+          "url": "https://www.npr.org/2026/07/05/nx-s1-5883091/national-guard-fatal-shooting-memphis",
+          "source": "npr",
+          "published_at": "2026-07-05T19:40:37+00:00",
+          "language": "en",
+          "country": "US",
+          "raw_provider": "rss",
+          "source_name": "NPR News",
+          "category": "news"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "New York welcomes Sail4th 250 Parade of Tall Ships",
+      "description": "As the nation marked its 250th anniversary, a massive flotilla headed to New York City for the Sail4th 250 gathering of warships and historic vessels. Bradley Blackburn and Alice Gainer report.",
+      "url": "https://www.cbsnews.com/video/new-york-celebrates-4th-of-july-with-sail4th-250-gathering-of-ships/",
+      "source": "cbs-news",
+      "published_at": "2026-07-05T22:19:00+00:00",
+      "language": "en",
+      "country": "US",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "cbs-news"
+      ],
+      "related_titles": [],
+      "source_weight": 6.0,
+      "recency_score": 8.88,
+      "topic_weight": 10,
+      "hot_score": 4.98,
+      "all_articles": [
+        {
+          "title": "New York welcomes Sail4th 250 Parade of Tall Ships",
+          "description": "As the nation marked its 250th anniversary, a massive flotilla headed to New York City for the Sail4th 250 gathering of warships and historic vessels. Bradley Blackburn and Alice Gainer report.",
+          "url": "https://www.cbsnews.com/video/new-york-celebrates-4th-of-july-with-sail4th-250-gathering-of-ships/",
+          "source": "cbs-news",
+          "published_at": "2026-07-05T22:19:00+00:00",
+          "language": "en",
+          "country": "US",
+          "raw_provider": "rss",
+          "source_name": "CBS News",
+          "category": "news"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Venezuelan leader marks Independence Day with message of ‘no social unrest’",
+      "description": "Interim President Delcy Rodriguez once again defends her government's handling of the deadly earthquakes on June 24.",
+      "url": "https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss",
+      "source": "al-jazeera-english",
+      "published_at": "2026-07-05T22:48:13+00:00",
+      "language": "en",
+      "country": "QA",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "al-jazeera-english"
+      ],
+      "related_titles": [],
+      "source_weight": 7.0,
+      "recency_score": 9.08,
+      "topic_weight": 8,
+      "hot_score": 4.97,
+      "all_articles": [
+        {
+          "title": "Venezuelan leader marks Independence Day with message of ‘no social unrest’",
+          "description": "Interim President Delcy Rodriguez once again defends her government's handling of the deadly earthquakes on June 24.",
+          "url": "https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss",
+          "source": "al-jazeera-english",
+          "published_at": "2026-07-05T22:48:13+00:00",
+          "language": "en",
+          "country": "QA",
+          "raw_provider": "rss",
+          "source_name": "Al Jazeera",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How a son rescued his father from the rubble of Venezuela’s earthquakes",
+      "description": "After the June 24 earthquakes, ex-firefighter Jesus Garcia found himself working to save his dad and younger brothers.",
+      "url": "https://www.aljazeera.com/news/longform/2026/7/5/how-a-son-rescued-his-father-from-the-rubble-of-venezuelas-earthquakes?traffic_source=rss",
+      "source": "al-jazeera-english",
+      "published_at": "2026-07-05T22:41:40+00:00",
+      "language": "en",
+      "country": "QA",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "al-jazeera-english"
+      ],
+      "related_titles": [],
+      "source_weight": 7.0,
+      "recency_score": 9.04,
+      "topic_weight": 8,
+      "hot_score": 4.96,
+      "all_articles": [
+        {
+          "title": "How a son rescued his father from the rubble of Venezuela’s earthquakes",
+          "description": "After the June 24 earthquakes, ex-firefighter Jesus Garcia found himself working to save his dad and younger brothers.",
+          "url": "https://www.aljazeera.com/news/longform/2026/7/5/how-a-son-rescued-his-father-from-the-rubble-of-venezuelas-earthquakes?traffic_source=rss",
+          "source": "al-jazeera-english",
+          "published_at": "2026-07-05T22:41:40+00:00",
+          "language": "en",
+          "country": "QA",
+          "raw_provider": "rss",
+          "source_name": "Al Jazeera",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Some Lebanese Christian villages 'asked to be annexed to Israel', Netanyahu says",
+      "description": "Israeli Prime Minister Benjamin Netanyahu said on Sunday that some Christian villages in southern Lebanon had asked to be annexed by Israel for protection from Hezbollah, a claim made as he reaffirmed that Israeli troops would remain in southern Lebanon for as long as necessary.",
+      "url": "https://www.france24.com/en/middle-east/20260705-netanyahu-says-lebanese-christian-villages-sought-annexation-by-israel",
+      "source": "france24",
+      "published_at": "2026-07-05T18:35:23+00:00",
+      "language": "en",
+      "country": "FR",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "france24"
+      ],
+      "related_titles": [],
+      "source_weight": 7.0,
+      "recency_score": 7.33,
+      "topic_weight": 10,
+      "hot_score": 4.92,
+      "all_articles": [
+        {
+          "title": "Some Lebanese Christian villages 'asked to be annexed to Israel', Netanyahu says",
+          "description": "Israeli Prime Minister Benjamin Netanyahu said on Sunday that some Christian villages in southern Lebanon had asked to be annexed by Israel for protection from Hezbollah, a claim made as he reaffirmed that Israeli troops would remain in southern Lebanon for as long as necessary.",
+          "url": "https://www.france24.com/en/middle-east/20260705-netanyahu-says-lebanese-christian-villages-sought-annexation-by-israel",
+          "source": "france24",
+          "published_at": "2026-07-05T18:35:23+00:00",
+          "language": "en",
+          "country": "FR",
+          "raw_provider": "rss",
+          "source_name": "France 24",
+          "category": "world"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Thunderstorms, heat and wind will hamper efforts to contain Colorado wildfires",
+      "description": "Thunderstorms with high winds could make it more difficult to contain a massive wildfire that has scorched parts of southern Colorado.",
+      "url": "https://www.npr.org/2026/07/05/nx-s1-5883052/colorado-wildfires-thunderstorms-firefighters-killed",
+      "source": "npr",
+      "published_at": "2026-07-05T20:54:38+00:00",
+      "language": "en",
+      "country": "US",
+      "raw_provider": "rss",
+      "cluster_count": 1,
+      "distinct_sources": [
+        "npr"
+      ],
+      "related_titles": [],
+      "source_weight": 7.0,
+      "recency_score": 8.29,
+      "topic_weight": 8,
+      "hot_score": 4.81,
+      "all_articles": [
+        {
+          "title": "Thunderstorms, heat and wind will hamper efforts to contain Colorado wildfires",
+          "description": "Thunderstorms with high winds could make it more difficult to contain a massive wildfire that has scorched parts of southern Colorado.",
+          "url": "https://www.npr.org/2026/07/05/nx-s1-5883052/colorado-wildfires-thunderstorms-firefighters-killed",
+          "source": "npr",
+          "published_at": "2026-07-05T20:54:38+00:00",
+          "language": "en",
+          "country": "US",
+          "raw_provider": "rss",
+          "source_name": "NPR News",
+          "category": "news"
+        }
+      ]
+    }
+  ]
+}
